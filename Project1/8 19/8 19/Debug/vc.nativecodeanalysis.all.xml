@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?><DEFECTS><DEFECT>
+    <SFA>
+      <FILEPATH>E:\c\8 19\8 19\</FILEPATH>
+      <FILENAME>game.c</FILENAME>
+      <LINE>69</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>返回值被忽略: “scanf”。</DESCRIPTION>
+    <FUNCTION>FindMine</FUNCTION>
+    <DECORATED>FindMine</DECORATED>
+    <FUNCLINE>62</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>E:\c\8 19\8 19\</FILEPATH>
+      <FILENAME>game.c</FILENAME>
+      <LINE>69</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>6271</DEFECTCODE>
+    <DESCRIPTION>向“scanf”传递了额外参数: _Param_(3) 未由格式字符串使用。</DESCRIPTION>
+    <FUNCTION>FindMine</FUNCTION>
+    <DECORATED>FindMine</DECORATED>
+    <FUNCLINE>62</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>E:\c\8 19\8 19\</FILEPATH>
+      <FILENAME>text.c</FILENAME>
+      <LINE>32</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>返回值被忽略: “scanf”。</DESCRIPTION>
+    <FUNCTION>test</FUNCTION>
+    <DECORATED>test</DECORATED>
+    <FUNCLINE>25</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT></DEFECTS>
